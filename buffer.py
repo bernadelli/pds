@@ -14,11 +14,11 @@ class RingBuffer:
         #return self.data
 
 
-n = 100
-fs = 2000
-f = 200
-sample = 200
-x = [0] * sample
+n = 100 #buffer size
+fs = 2000 #sample frequency
+f = 200 #signal frequency
+sample = 200 #samples
+x = [0] * sample #input signal
 
 
 buf = RingBuffer(n)
