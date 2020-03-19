@@ -1,5 +1,7 @@
+#Bernadelli 2020; clariton.bernadelli@uftm.edu.br; claritonbernadelli@gmail.com
+
 #Circular buffer
-#Bernadelli 2020
+
 
 import matplotlib.pyplot as plt
 import math

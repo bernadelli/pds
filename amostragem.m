@@ -1,4 +1,6 @@
 %%
+%Bernadelli 2020; clariton.bernadelli@uftm.edu.br; claritonbernadelli@gmail.com
+
 %Digital signal processing using Matlab - Edited by André Quinquis
 %EXERCISE 2.6 
 %F0 = 1,2 kHz, Fs = 16 kHz, phi_0 = pi/4 rad, A = 10, t0 = 0, tf = 5 ms
